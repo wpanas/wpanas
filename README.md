@@ -20,6 +20,7 @@ I also make personal [posts] of things that I find useful and worth spreading. I
 - [Gradle BOM plugin]
 - [Leader Only Spring Boot Starter]
 - [Testcontainers Examples]
+- [ML Snippets]
 
 📽 My presentations
 ===
@@ -43,3 +44,4 @@ I also make personal [posts] of things that I find useful and worth spreading. I
 [Gradle BOM plugin]: https://github.com/gradle-bom/gradle-bom-generator-plugin
 [Leader Only Spring Boot Starter]: https://github.com/allegro/leader-only-spring-boot-starter
 [Testcontainers Examples]: https://github.com/wpanas/testcontainers-examples
+[ML Snippets]: https://github.com/wpanas/ml-snippets
