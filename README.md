@@ -17,6 +17,7 @@ It’s a series of presentations created by experienced software engineers for I
 ===
 
 - [Gradle BOM plugin]
+- [Leader Only Spring Boot Starter]
 
 [Allegro.pl]: https://allegro.pl/
 [Kotlin coroutines]: https://kotlinlang.org/docs/coroutines-overview.html
@@ -32,3 +33,4 @@ It’s a series of presentations created by experienced software engineers for I
 [reactive manifesto]: https://www.reactivemanifesto.org/
 [Allegro Tech Live]: https://www.meetup.com/pl-PL/allegrotech/events/past/
 [Gradle BOM plugin]: https://github.com/gradle-bom/gradle-bom-generator-plugin
+[Leader Only Spring Boot Starter]: https://github.com/allegro/leader-only-spring-boot-starter
