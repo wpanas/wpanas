@@ -21,6 +21,11 @@ I also make personal [posts] of things that I find useful and worth spreading. I
 - [Leader Only Spring Boot Starter]
 - [Testcontainers Examples]
 
+📽 My presentations
+===
+
+- 🇵🇱[Kontenery do testów - czyli testowanie na poważnie](https://www.youtube.com/watch?v=axfyz7ga-mA)
+
 [Allegro.pl]: https://allegro.pl/
 [Kotlin coroutines]: https://kotlinlang.org/docs/coroutines-overview.html
 [Apache Kafka]: https://kafka.apache.org/
