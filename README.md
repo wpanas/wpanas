@@ -10,7 +10,7 @@ I have a strong technical experience that I’ve gained through the years. I use
 Of course, I practice my knowledge through building applications in the microservice architecture. 
 In my team we use [Kotlin coroutines], [Apache Kafka] & the [service mesh] to be more resilient and in alignment with the [reactive manifesto].
 
-I love to share my know-how with the community. Together with [Karol Teske] — the host of [Allegro Tech Live] — and [Adam Dudczak] — the facilitator of [GeeCon conference] — we organize [Jugademy] meetings. 
+I love to share my know-how with the community. Together with [Karol Teske] — the host of [Allegro Tech Live] — and [Adam Dudczak] — the organizer of [GeeCon conference] — we organize [Jugademy] meetings. 
 It’s a series of presentations created by experienced software engineers for IT newcomers. I'm one of the [Allegro Tech Blog] editors. 
 I also make personal [posts] of things that I find useful and worth spreading. I am active at [LinkedIn] & [Twitter].
 
