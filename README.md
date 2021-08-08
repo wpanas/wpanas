@@ -7,10 +7,15 @@ My job involves managing projects & people, but I’m pleased to tell you that I
 
 I have a strong technical experience that I’ve gained through the years. I use it to recruit new software engineers to Allegro.pl. 
 Of course, I practice my knowledge through building applications in the microservice architecture. 
-In my team we use [Kotlin coroutines], [Apache Kafka] & a [service mesh] to be more resilient and in alignment with the [reactive manifesto].
+In my team we use [Kotlin coroutines], [Apache Kafka] & the [service mesh] to be more resilient and in alignment with the [reactive manifesto].
 
 I love to share my know-how with the community. Together with [Karol Teske] — the host of [Allegro Tech Live] — and [Adam Dudczak] — the facilitator of [GeeCon conference] — we organize [Jugademy] meetings. 
 It’s a series of presentations created by experienced software engineers for IT newcomers. I make [posts] of things that I find useful and worth spreading. I am active at [LinkedIn] & [Twitter].
+
+🤖 My projects
+===
+
+- [Gradle BOM plugin]
 
 [Allegro.pl]: https://allegro.pl/
 [the most popular shopping platform in Poland]: https://about.allegro.eu/who-we-are/at-a-glance
@@ -24,4 +29,5 @@ It’s a series of presentations created by experienced software engineers for I
 [posts]: https://blog.wpanas.eu/
 [LinkedIn]: https://www.linkedin.com/in/w-panas/
 [Twitter]: https://twitter.com/PanasWaldemar
-
+[Allegro Tech Live]: https://www.meetup.com/pl-PL/allegrotech/events/past/
+[Gradle BOM plugin]: https://github.com/gradle-bom/gradle-bom-generator-plugin
