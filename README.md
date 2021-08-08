@@ -19,6 +19,7 @@ I also make personal [posts] of things that I find useful and worth spreading. I
 
 - [Gradle BOM plugin]
 - [Leader Only Spring Boot Starter]
+- [Testcontainers Examples]
 
 [Allegro.pl]: https://allegro.pl/
 [Kotlin coroutines]: https://kotlinlang.org/docs/coroutines-overview.html
@@ -36,3 +37,4 @@ I also make personal [posts] of things that I find useful and worth spreading. I
 [Allegro Tech Blog]: https://blog.allegro.tech/
 [Gradle BOM plugin]: https://github.com/gradle-bom/gradle-bom-generator-plugin
 [Leader Only Spring Boot Starter]: https://github.com/allegro/leader-only-spring-boot-starter
+[Testcontainers Examples]: https://github.com/wpanas/testcontainers-examples
