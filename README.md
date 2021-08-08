@@ -2,7 +2,8 @@
 ===
 Hi, I’m Waldemar. I will be delighted if you care to reach me! 
 
-I’m always seeking new ways to expand my knowledge. In [Allegro.pl] — the most popular shopping platform in Poland — I’ve managed to advance from a junior software engineer to a team leader in just 3 years. 
+I’m always seeking new ways to expand my knowledge. In [Allegro.pl] — [the most popular shopping platform in Poland](https://about.allegro.eu/who-we-are/at-a-glance)
+— I’ve managed to advance from a junior software engineer to a team leader in just 3 years. 
 My job involves managing projects & people, but I’m pleased to tell you that I still code. Right now, I dive into how to be a good manager and make better software simultaneously.
 
 I have a strong technical experience that I’ve gained through the years. I use it to recruit new software engineers to Allegro.pl. 
@@ -18,7 +19,6 @@ It’s a series of presentations created by experienced software engineers for I
 - [Gradle BOM plugin]
 
 [Allegro.pl]: https://allegro.pl/
-[the most popular shopping platform in Poland]: https://about.allegro.eu/who-we-are/at-a-glance
 [Kotlin coroutines]: https://kotlinlang.org/docs/coroutines-overview.html
 [Apache Kafka]: https://kafka.apache.org/
 [service mesh]: https://github.com/allegro/envoy
