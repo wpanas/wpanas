@@ -29,5 +29,6 @@ It’s a series of presentations created by experienced software engineers for I
 [posts]: https://blog.wpanas.eu/
 [LinkedIn]: https://www.linkedin.com/in/w-panas/
 [Twitter]: https://twitter.com/PanasWaldemar
+[reactive manifesto]: https://www.reactivemanifesto.org/
 [Allegro Tech Live]: https://www.meetup.com/pl-PL/allegrotech/events/past/
 [Gradle BOM plugin]: https://github.com/gradle-bom/gradle-bom-generator-plugin
