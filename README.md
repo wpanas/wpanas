@@ -11,7 +11,8 @@ Of course, I practice my knowledge through building applications in the microser
 In my team we use [Kotlin coroutines], [Apache Kafka] & the [service mesh] to be more resilient and in alignment with the [reactive manifesto].
 
 I love to share my know-how with the community. Together with [Karol Teske] — the host of [Allegro Tech Live] — and [Adam Dudczak] — the facilitator of [GeeCon conference] — we organize [Jugademy] meetings. 
-It’s a series of presentations created by experienced software engineers for IT newcomers. I make [posts] of things that I find useful and worth spreading. I am active at [LinkedIn] & [Twitter].
+It’s a series of presentations created by experienced software engineers for IT newcomers. I'm one of the [Allegro Tech Blog] editors. 
+I also make personal [posts] of things that I find useful and worth spreading. I am active at [LinkedIn] & [Twitter].
 
 🤖 My projects
 ===
@@ -32,5 +33,6 @@ It’s a series of presentations created by experienced software engineers for I
 [Twitter]: https://twitter.com/PanasWaldemar
 [reactive manifesto]: https://www.reactivemanifesto.org/
 [Allegro Tech Live]: https://www.meetup.com/pl-PL/allegrotech/events/past/
+[Allegro Tech Blog]: https://blog.allegro.tech/
 [Gradle BOM plugin]: https://github.com/gradle-bom/gradle-bom-generator-plugin
 [Leader Only Spring Boot Starter]: https://github.com/allegro/leader-only-spring-boot-starter
