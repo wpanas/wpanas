@@ -17,6 +17,7 @@ I also make personal [posts] of things that I find useful and worth spreading. I
 🤖 My projects
 ===
 
+- [🇵🇱 List of polish Java User Groups]
 - [Gradle BOM plugin]
 - [Leader Only Spring Boot Starter]
 - [Testcontainers Examples]
@@ -45,3 +46,4 @@ I also make personal [posts] of things that I find useful and worth spreading. I
 [Leader Only Spring Boot Starter]: https://github.com/allegro/leader-only-spring-boot-starter
 [Testcontainers Examples]: https://github.com/wpanas/testcontainers-examples
 [ML Snippets]: https://github.com/wpanas/ml-snippets
+[🇵🇱 List of polish Java User Groups]: https://github.com/wpanas/polish-java-user-groups
